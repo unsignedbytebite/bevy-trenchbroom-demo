@@ -5,10 +5,8 @@ Explorations in using [Trenchbroom](https://trenchbroom.github.io/) in [Bevy](ht
 ![image](readme_media/screen.png)
 
 ## Hot reloading
-<video width="640" height="360" controls>
-  <source src="readme_media/trenchvid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/955208a8-3341-4349-9e38-6e9f75257295
+![video](readme_media/trenchvid.mp4)
 
 ## WASM support
 ![image](readme_media/wasm.png)
