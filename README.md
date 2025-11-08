@@ -6,6 +6,7 @@ Explorations in using [Trenchbroom](https://trenchbroom.github.io/) in [Bevy](ht
 
 ## Hot reloading
 https://github.com/user-attachments/assets/955208a8-3341-4349-9e38-6e9f75257295
+
 ![video](readme_media/trenchvid.mp4)
 
 ## WASM support
